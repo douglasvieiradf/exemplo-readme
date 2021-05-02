@@ -1,19 +1,21 @@
-# Banco Digital
+#  Pesquisa de Big Game
+[! [ NPM ] (https://img.shields.io/npm/l/react)] (https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE)
 
-# Sobre o projeto
+#  Sobre o projeto
 
-Banco digital foi inspirado nos bancos digitais do nosso dia-a-dia
+https://wmazoni-sds1.netlify.app
 
+Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da ** Semana DevSuperior ** (# sds1), evento organizado pela [ DevSuperior ] (https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em mostrar os serviços disponiveis com facilidade para acessar o banco.
+A aplicação consiste em uma pesquisa de preferência de jogos, onde os dados são coletados no app mobile, e depois são corrigidos no app web, que também apresenta um painel com gráficos baseados em dados .
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+##  Layout mobile
+! [ Mobile 1 ] (https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)! [ Mobile 2 ] (https://github.com/acenelio/assets/raw/main/ sds1 / mobile2.png)
 
-## Layout Desktop
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+##  Layout web
+! [ Web 1 ] (https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+! [ Web 2 ] (https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
